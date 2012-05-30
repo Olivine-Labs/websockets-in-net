@@ -1,4 +1,4 @@
-websockets-in-net
-=================
+WebSockets in .NET for Fast Web Applications
+============================================
 
-Repository for Websockets in .NET talk
+Source for slides, and submodule for Alchemy example.
