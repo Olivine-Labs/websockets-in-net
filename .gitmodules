@@ -1,0 +1,3 @@
+[submodule "Alchemy-Websockets-Example"]
+	path = Alchemy-Websockets-Example
+	url = git@github.com:Olivine-Labs/Alchemy-Websockets-Example.git
